@@ -24,3 +24,7 @@ GCN aggregation mechanisms: Tune at least three aggregation mechanisms (aka mess
 Explain your understanding (based on the documentation/paper) of the mechanisms you chose.
 
 Up-sampling: adjust the training data preparation/generation part to up-sample the positive class samples (very unbalanced dataset)
+
+
+# Competition Link:
+https://www.kaggle.com/competitions/cisc873-dm-f22-a6
